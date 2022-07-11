@@ -303,6 +303,7 @@ religious_ideas = {
 	}
 	inquisition = {
 		missionary_maintenance_cost = -0.5
+		missionaries = 1
 	}
 	deus_vult = {
 		cb_on_religious_enemies = yes
